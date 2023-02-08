@@ -2,7 +2,7 @@
 
 App feito em Kotlin
 Visualização básica de Layout
-Cartão de Apresentação! É o projeto incial da trilha developers.
+Cartão de Apresentação! É o projeto incial da trilha developers. App Android com Compose.
 
 
 ## Funções:
